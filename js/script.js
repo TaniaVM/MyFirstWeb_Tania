@@ -29,4 +29,3 @@ $('#Total1').text(Total1);
 )
 
 
-
